@@ -1,2 +1,7 @@
 *.sqlite3
 env.py
+*.png
+*.jpeg
+*.jpg
+static/
+media/
