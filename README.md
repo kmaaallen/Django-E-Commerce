@@ -1,7 +1,3 @@
 # Code Institute
 
-Welcome Kirsten,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+[![Build Status](https://travis-ci.org/kmaaallen/Django-E-Commerce.svg?branch=master)](https://travis-ci.org/kmaaallen/Django-E-Commerce)
